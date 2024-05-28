@@ -14,7 +14,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,php,vue,laravel,git" />
-    <img src="https://skillicons.dev/icons?i=typescript,mariadb,mysql,postgresql,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,figma" /><br>
 </div>
 
 <br/>
