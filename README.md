@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+I'm+Marco!+👋;+I'm+FullStack+Developer;" />
 </h1>
 
-<h3 align="center">A Junior Front-end Developer that loves apply his knowledge to solve problems and create amazing products.</h3>
+<h3 align="center">I am passionate about learning and sharing knowledge. I always look for new challenges and opportunities to grow as a developer.</h3>
 
 - 🔭 I’m currently working on **iiBrasil**
 
